@@ -1,0 +1,9 @@
+/home/david/CursoNSE/BuildingBlock/NSE.WebAPI.Core/bin/Debug/netcoreapp3.1/NSE.WebAPI.Core.deps.json
+/home/david/CursoNSE/BuildingBlock/NSE.WebAPI.Core/bin/Debug/netcoreapp3.1/NSE.WebAPI.Core.dll
+/home/david/CursoNSE/BuildingBlock/NSE.WebAPI.Core/bin/Debug/netcoreapp3.1/NSE.WebAPI.Core.pdb
+/home/david/CursoNSE/BuildingBlock/NSE.WebAPI.Core/obj/Debug/netcoreapp3.1/NSE.WebAPI.Core.csprojAssemblyReference.cache
+/home/david/CursoNSE/BuildingBlock/NSE.WebAPI.Core/obj/Debug/netcoreapp3.1/NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+/home/david/CursoNSE/BuildingBlock/NSE.WebAPI.Core/obj/Debug/netcoreapp3.1/NSE.WebAPI.Core.AssemblyInfoInputs.cache
+/home/david/CursoNSE/BuildingBlock/NSE.WebAPI.Core/obj/Debug/netcoreapp3.1/NSE.WebAPI.Core.AssemblyInfo.cs
+/home/david/CursoNSE/BuildingBlock/NSE.WebAPI.Core/obj/Debug/netcoreapp3.1/NSE.WebAPI.Core.dll
+/home/david/CursoNSE/BuildingBlock/NSE.WebAPI.Core/obj/Debug/netcoreapp3.1/NSE.WebAPI.Core.pdb
